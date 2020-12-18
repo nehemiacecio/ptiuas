@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ptiuas/static/css/main.97fb18aa.chunk.css",
-    "main.js": "/ptiuas/static/js/main.6537b8b2.chunk.js",
-    "main.js.map": "/ptiuas/static/js/main.6537b8b2.chunk.js.map",
+    "main.js": "/ptiuas/static/js/main.8772bb00.chunk.js",
+    "main.js.map": "/ptiuas/static/js/main.8772bb00.chunk.js.map",
     "runtime-main.js": "/ptiuas/static/js/runtime-main.87bc0e38.js",
     "runtime-main.js.map": "/ptiuas/static/js/runtime-main.87bc0e38.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/ptiuas/static/css/2.20aa2d7b.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.3a44d885.chunk.js",
     "static/css/main.97fb18aa.chunk.css",
-    "static/js/main.6537b8b2.chunk.js"
+    "static/js/main.8772bb00.chunk.js"
   ]
 }
