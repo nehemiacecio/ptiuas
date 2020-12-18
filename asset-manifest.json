@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ptiuas/static/css/main.c3f7bfcd.chunk.css",
+    "main.js": "/ptiuas/static/js/main.186c6cb5.chunk.js",
+    "main.js.map": "/ptiuas/static/js/main.186c6cb5.chunk.js.map",
+    "runtime-main.js": "/ptiuas/static/js/runtime-main.87bc0e38.js",
+    "runtime-main.js.map": "/ptiuas/static/js/runtime-main.87bc0e38.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/ptiuas/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.909f4d0a.chunk.js": "/ptiuas/static/js/2.909f4d0a.chunk.js",
+    "static/js/2.909f4d0a.chunk.js.map": "/ptiuas/static/js/2.909f4d0a.chunk.js.map",
+    "index.html": "/ptiuas/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/ptiuas/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.c3f7bfcd.chunk.css.map": "/ptiuas/static/css/main.c3f7bfcd.chunk.css.map",
+    "static/js/2.909f4d0a.chunk.js.LICENSE.txt": "/ptiuas/static/js/2.909f4d0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87bc0e38.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.909f4d0a.chunk.js",
+    "static/css/main.c3f7bfcd.chunk.css",
+    "static/js/main.186c6cb5.chunk.js"
+  ]
+}
