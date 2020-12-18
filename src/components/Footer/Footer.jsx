@@ -20,7 +20,7 @@ function Footer() {
         <hr />
         <div className="row">
           <p className="col-sm">
-            &copy;{new Date().getFullYear()} THICC MEMES | All rights reserved |
+            &copy;{new Date().getFullYear()} PTI | Kelompok 9 |
             Terms Of Service | Privacy
           </p>
         </div>
