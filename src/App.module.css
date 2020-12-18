@@ -1,6 +1,4 @@
-body {
-    background-color: rgb(250, 250, 250);
-}
+
 
 .container {
     display: flex;
@@ -61,3 +59,19 @@ body {
   .content-wrap {
     flex: 1;
   }
+
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(156, 61, 61);
+    color: white;
+  }
+  .nav-links{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+   }
