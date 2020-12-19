@@ -33,10 +33,10 @@ class App extends React.Component {
   
         return !data ? <p> Loading...</p>: (
                 <Router>
-                <div classname="App"> 
+                <div class="body"> 
                 <Header/>    
                 <Cards data={data}/>
-                <CountryPicker classname="App.module" handleCountryChange={this.handleCountryChange}/>
+                <CountryPicker classname="App" handleCountryChange={this.handleCountryChange}/>
                 <Chart data={data} country={country}/>
                 
                 

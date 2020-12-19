@@ -15,8 +15,9 @@ export class Nav extends Component {
         return (
             <div>
                 <ul className={toggle? "toggle" : ""}>
-                    <li><Link to="/about">About Us</Link></li>
                     <li><Link to="/">Home</Link></li>
+                    <li><Link to="/about">About Us</Link></li>
+                    
                     <li className="close" onClick={this.menuToggle}>X</li>
                     </ul>
                     <div className="menu" onClick={this.menuToggle}>Menu</div>

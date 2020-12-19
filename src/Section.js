@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import About from './About';
 import App from './App';
-
+import './App.css';
 import {Route} from 'react-router-dom';
 
 export class Section extends Component {

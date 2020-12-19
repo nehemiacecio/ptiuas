@@ -1,13 +1,16 @@
 .container {
     margin : 50px 0;
+    
 }
-
 .card{
     margin: 0 2% !important;
+    background-color: crimson;
+    
 }
 
 .infected {
     border-bottom: 10px solid rgba(41, 123, 179, 0.5);
+    ;
 }
 .recovered {
     border-bottom: 10px solid rgba(41, 161, 91, 0.5);
